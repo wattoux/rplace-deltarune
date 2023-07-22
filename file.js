@@ -1,10 +1,10 @@
 {
-  "contact": "r/deltarune",
+  "contact": "r/deltarune - https://discord.gg/AuqARRvnC4",
   "templates": [
     {
       "name": "ralsei",
       "sources": [
-        "https://media.discordapp.net/attachments/1033630489866678382/1131560823777660928/RALSEI.png"
+        "https://media.discordapp.net/attachments/944593144798932992/1132110037599399996/RALSEI.png"
       ],
       "x": 411,
       "y": 663
