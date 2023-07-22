@@ -14,7 +14,7 @@
       "sources": [
         "https://media.discordapp.net/attachments/1130572654475227308/1132218261442920458/toby2.png"
       ],
-      "x": 1770,
+      "x": 1766,
       "y": 674
     }
   ],
