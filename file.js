@@ -6,7 +6,7 @@
       "sources": [
         "https://media.discordapp.net/attachments/1131353707053846550/1132117289987211264/toby.png"
       ],
-      "x": 1271,
+      "x": 1771,
       "y": 712
     },
     {
@@ -14,7 +14,7 @@
       "sources": [
         "https://media.discordapp.net/attachments/1130572654475227308/1132218261442920458/toby2.png"
       ],
-      "x": 1270,
+      "x": 1770,
       "y": 674
     }
   ],
