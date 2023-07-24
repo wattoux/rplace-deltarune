@@ -6,7 +6,7 @@
       "sources": [
         "https://media.discordapp.net/attachments/944593144798932992/1133010393887936625/DOWNSCALING_TEST.png"
       ],
-      "x": 1823,
+      "x": 1822,
       "y": 1924
     },
     {
