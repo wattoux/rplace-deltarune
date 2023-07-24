@@ -4,9 +4,9 @@
     {
       "name": "deltarune",
       "sources": [
-        "https://media.discordapp.net/attachments/944593144798932992/1132800475763331102/DOWNSCALING_TEST.png"
+        "https://media.discordapp.net/attachments/944593144798932992/1132994425182765096/DOWNSCALING_TEST.png"
       ],
-      "x": 1823,
+      "x": 1822,
       "y": 1924
     }
   ],
