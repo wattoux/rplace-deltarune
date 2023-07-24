@@ -4,18 +4,10 @@
     {
       "name": "deltarune",
       "sources": [
-        "https://media.discordapp.net/attachments/944593144798932992/1133010393887936625/DOWNSCALING_TEST.png"
+        "https://media.discordapp.net/attachments/944593144798932992/1133105992545075200/DOWNSCALING_TEST.png"
       ],
-      "x": 1822,
+      "x": 1799,
       "y": 1924
-    },
-    {
-      "name": "Another Deltarune",
-      "sources": [
-        "https://media.discordapp.net/attachments/1131353707053846550/1133038214576353300/image.png"
-      ],
-      "x": 1800,
-      "y": 1966
     }
   ],
   "whitelist": [],
