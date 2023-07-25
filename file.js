@@ -1,5 +1,5 @@
 {
-  "contact": "9bG + Thethree13 r/deltarune",
+  "contact": "9bg + Thethree13 + alicejameson r/deltarune",
   "templates": [
     {
       "name": "deltarune",
