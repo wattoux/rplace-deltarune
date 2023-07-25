@@ -4,7 +4,7 @@
     {
       "name": "deltarune",
       "sources": [
-        "https://media.discordapp.net/attachments/1131625446711242873/1133209126713958440/DOWNSCALING_TEST.png"
+        "https://cdn.discordapp.com/attachments/1131625446711242873/1133212734863982722/DOWNSCALING_TEST.png"
       ],
       "x": 1799,
       "y": 1924
